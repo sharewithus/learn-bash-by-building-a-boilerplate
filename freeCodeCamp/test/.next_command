@@ -273,3 +273,10 @@ ls --color=auto
 mv header.png images/
 ls --color=auto
 mv images/header.png client/assets/images/
+find -name header.png
+find -name header
+find header
+find header.png
+find -name header
+find -name header.png
+find -name header.png
