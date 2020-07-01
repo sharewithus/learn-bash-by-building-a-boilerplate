@@ -309,3 +309,4 @@ rmdir fonts/ -f
 rmdir --help
 rm --help
 rm -r fonts/
+ls --color=auto
