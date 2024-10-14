@@ -33,3 +33,4 @@ echo hello terminal
 owd
 pwd
 ls --color=auto
+cd freeCodeCamp/
