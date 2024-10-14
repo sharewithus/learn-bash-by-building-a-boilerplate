@@ -200,3 +200,14 @@ clea
 clear
 clear
 touch background.jpg
+cd ..
+cd ..
+cd ..
+clear
+ls --color=auto
+cd client/assets/images/a
+l
+l
+cd /client/assets/images/
+cd client/assets/images
+cd ../../..
