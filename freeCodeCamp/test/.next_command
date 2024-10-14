@@ -211,3 +211,9 @@ l
 cd /client/assets/images/
 cd client/assets/images
 cd ../../..
+cd client/assets/images/
+ls --color=auto
+cd ../../..
+cd client/assets/images/
+cd ../../..
+cd images/
