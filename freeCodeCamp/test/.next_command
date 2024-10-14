@@ -320,3 +320,6 @@ echo one more thing...
 echo I mane this boilerplate >> README.md
 echo I made this boilerplate >> README.md
 more README.md
+echo from command line >> README.md
+ls --color=auto
+echo from the command line >> README.md
