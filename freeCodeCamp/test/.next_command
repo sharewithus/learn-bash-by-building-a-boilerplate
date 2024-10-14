@@ -269,3 +269,7 @@ find images
 cd website/
 find images
 find -name images
+ls --color=auto
+mv header.png images/
+ls --color=auto
+mv images/header.png client/assets/images/
