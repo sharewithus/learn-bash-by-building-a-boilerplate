@@ -186,3 +186,7 @@ find
 cd client/
 mkdir assets
 cd assets/
+ks
+ls --color=auto
+ls --color=auto
+mkdir images
