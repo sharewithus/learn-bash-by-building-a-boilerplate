@@ -332,3 +332,5 @@ mv website/ website-boilerplate
 ls --color=auto
 ks
 ls --color=auto
+cp help
+cp --help
