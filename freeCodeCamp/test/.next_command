@@ -177,3 +177,5 @@ mv index.js client/src
 mv styles.css client/src
 find
 find client/
+find --hlep
+find --help
