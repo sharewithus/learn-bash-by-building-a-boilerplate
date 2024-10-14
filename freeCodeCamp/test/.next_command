@@ -170,3 +170,4 @@ find
 mkdir client
 mkrdir client/src
 mkdir client/src
+mv index.html client/src
