@@ -339,3 +339,4 @@ ls --color=auto
 find toms-website/
 find boi
 find website-boilerplate/
+clear
