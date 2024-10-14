@@ -100,3 +100,4 @@ cd h
 cd has
 cd ..
 cd ../..
+ls --color=auto
