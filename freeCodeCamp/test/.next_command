@@ -308,3 +308,4 @@ rmdir -f fonts/
 rmdir fonts/ -f
 rmdir --help
 rm --help
+rm -r fonts/
