@@ -155,3 +155,5 @@ rm header.png
 rm footer.jpeg
 ls --color=auto
 mv roboto.font roboto.woff
+__vsc_prompt_cmd_original
+ls --color=auto
