@@ -174,3 +174,4 @@ mv index.html client/src
 lfind
 find
 mv index.js client/src
+mv styles.css client/src
