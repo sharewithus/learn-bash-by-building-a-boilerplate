@@ -334,3 +334,4 @@ ks
 ls --color=auto
 cp help
 cp --help
+cp -r website-boilerplate/ toms-website
